@@ -2,21 +2,18 @@
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300">
 </p>
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/107767172/196756982-f3bcd4cc-7c85-42c1-ab8d-5a8d64825fdd.gif" width="100">, I'm Rishabh Jain</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/107767172/196756982-f3bcd4cc-7c85-42c1-ab8d-5a8d64825fdd.gif" width="100">, I'm Satish Chaurasia</h1>
 <br>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate frontend developer and competitive coder from India</h3>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/RishabhJain0721/count.svg" alt="visitor badge"/></p>
-
-<h1 align="center">Hi 👋, I'm Satish Chaurasia</h1>
-<h3 align="center">A passionate frontend developer and competitive coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish-chau95&label=Profile%20views&color=0e75b6&style=flat" alt="satish-chau95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satish-chau95" alt="satish-chau95" /></a> </p>
 
-- 🌱 I’m currently learning **DSA , Backend Development**
+- 🌱 I’m currently learning **DSA  & Web Development**
 
 - 📄 Know about my experiences [https://bit.ly/3xR4HGs](https://bit.ly/3xR4HGs)
 
@@ -38,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satish-chau95&show_icons=true&locale=en&layout=compact" alt="satish-chau95" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish-chau95&show_icons=true&locale=en" alt="satish-chau95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish-chau95&" alt="satish-chau95" /></p>
